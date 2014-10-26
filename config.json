@@ -1,16 +1,7 @@
 {
-	"modules": [
-		{
-			"name": "test",
-			"port": 8999
-		},
-		{
-			"name": "test2",
-			"port": 8999
-		},
-		{
-			"name": "test3",
-			"port": 8999
+	"modules": {
+		"github.com/ecosys/log": {
+			"path": ""
 		}
-	]
+	}
 }
